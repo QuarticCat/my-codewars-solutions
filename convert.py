@@ -1,4 +1,4 @@
 import re
 import sys
 
-print(re.sub(r'[^a-zA-Z]+', '-', sys.argv[1]))
+print('-'.join(re.findall(r'[a-zA-z]+', sys.argv[1])))
