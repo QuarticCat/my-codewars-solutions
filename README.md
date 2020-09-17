@@ -8,3 +8,10 @@ Since not any character used in Codewars questions can be used in path, I write 
 $ python3 convert.py [question-name]
 [directory-name]
 ```
+
+For example:
+
+```console
+$ python3 convert.py "Simple Encryption #1 - Alternating Split"
+Simple-Encryption-1-Alternating-Split
+```
