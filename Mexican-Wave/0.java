@@ -9,7 +9,6 @@ public class MexicanWave {
             temp.setCharAt(i, Character.toUpperCase(str.charAt(i)));
             ret.add(temp.toString());
         }
-        System.out.println(ret);
         return ret.toArray(new String[0]);
     }
 }
