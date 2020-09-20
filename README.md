@@ -17,3 +17,12 @@ For example:
 $ python3 convert.py "Simple Encryption #1 - Alternating Split"
 Simple-Encryption-1-Alternating-Split
 ```
+
+## TODO
+
+Sometimes my current convert method may cause conflict. For example:
+
+- "A+B=B+A? Prove it!" -> "A-B-B-A-Prove-it"
+- "A\*B=B\*A? Prove it!" -> "A-B-B-A-Prove-it"
+
+I'm looking for a less conflicting and still human readable mapping way.
