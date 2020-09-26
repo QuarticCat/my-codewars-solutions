@@ -63,3 +63,11 @@
 - Peano numbers
   [[link](https://www.codewars.com/kata/5779b0f0ec883247b2000117)]
   [[file](/5779b0f0ec883247b2000117)]
+
+- Singletons
+  [[link](https://www.codewars.com/kata/54750ed320c64c64e20002e2)]
+  [[file](/54750ed320c64c64e20002e2)]
+
+- A+B=B+A? Prove it!
+  [[link](https://www.codewars.com/kata/59db393bc1596bd2b700007f)]
+  [[file](/59db393bc1596bd2b700007f)]
