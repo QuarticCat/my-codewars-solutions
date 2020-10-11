@@ -83,3 +83,7 @@ Since not all characters used in Codewars questions are valid in path, I write a
 - A*B=B*A? Prove it!
   [[link](https://www.codewars.com/kata/5c302f562f6fe300155a1933)]
   [[file](/5c302f562f6fe300155a1933)]
+
+- Scott Encoding
+  [[link](https://www.codewars.com/kata/59c132fb70a3b7efd3000024)]
+  [[file](/59c132fb70a3b7efd3000024)]
