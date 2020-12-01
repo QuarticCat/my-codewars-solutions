@@ -80,7 +80,7 @@ Since not all characters used in Codewars questions are valid in path, I write a
   [[link](https://www.codewars.com/kata/59db393bc1596bd2b700007f)]
   [[file](/59db393bc1596bd2b700007f)]
 
-- A*B=B*A? Prove it!
+- A\*B=B\*A? Prove it!
   [[link](https://www.codewars.com/kata/5c302f562f6fe300155a1933)]
   [[file](/5c302f562f6fe300155a1933)]
 
