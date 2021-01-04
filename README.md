@@ -91,3 +91,7 @@ Since not all characters used in Codewars questions are valid in path, I write a
 - Symbolic differentiation of prefix expressions
   [[link](https://www.codewars.com/kata/584daf7215ac503d5a0001ae)]
   [[file](/584daf7215ac503d5a0001ae)]
+
+- Tiny Three-Pass Compiler
+  [[link](https://www.codewars.com/kata/5265b0885fda8eac5900093b)]
+  [[file](/5265b0885fda8eac5900093b)]
