@@ -95,3 +95,7 @@ Since not all characters used in Codewars questions are valid in path, I write a
 - Tiny Three-Pass Compiler
   [[link](https://www.codewars.com/kata/5265b0885fda8eac5900093b)]
   [[file](/5265b0885fda8eac5900093b)]
+
+- Simple assembler interpreter
+  [[link](https://www.codewars.com/kata/58e24788e24ddee28e000053)]
+  [[file](/58e24788e24ddee28e000053)]
