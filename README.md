@@ -103,3 +103,7 @@ Since not all characters used in Codewars questions are valid in path, I write a
 - Assembler interpreter (part II)
   [[link](https://www.codewars.com/kata/58e61f3d8ff24f774400002c)]
   [[file](/src/58e61f3d8ff24f774400002c)]
+
+- Best travel
+  [[link](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa)]
+  [[file](/src/55e7280b40e1c4a06d0000aa)]
