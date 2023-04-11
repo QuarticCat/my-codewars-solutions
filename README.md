@@ -4,7 +4,7 @@
 
 Here are my codewars solutions.
 
-Since not all characters used in Codewars questions are valid in path, I write an index.
+Since not all characters used in question titles are valid in path, I write an index.
 
 ## Index
 
