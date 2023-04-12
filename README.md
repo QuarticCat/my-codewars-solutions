@@ -107,3 +107,7 @@ Since not all characters used in question titles are valid in path, I write an i
 - Best travel
   [[link](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa)]
   [[file](/src/55e7280b40e1c4a06d0000aa)]
+
+- A Simplistic TCP Finite State Machine (FSM)
+  [[link](https://www.codewars.com/kata/54acc128329e634e9a000362)]
+  [[file](/src/54acc128329e634e9a000362)]
